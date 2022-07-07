@@ -6,7 +6,7 @@ This analysis was performed to help aid the decision of travel destinations.
 ## Results 
 
 ### Weather Database
-A weather database was created using the Google Maps API. This data includes the cities with their latitudes, longitudes, maximum temperatures, humidity, cloudiness, windspeed, country, current description of weather, as well as a date that the data was pulled.
+A weather database was created using the Google Maps API. This data includes the cities with their latitudes, longitudes, maximum temperatures, humidity, cloudiness, windspeed, country, and current description of weather.
 
 -- ADD THE PHOTO OF THE DATAFRAME
 
