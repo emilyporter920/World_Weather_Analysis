@@ -10,7 +10,7 @@ A weather database was created using the Google Maps API. This data includes the
 
 <p align="center">
   <img 
-    src=World_Weather/World_Weather_DataFrame.png
+    src=Weather_Database/World_Weather_DataFrame.png
   >
 </p>
 
