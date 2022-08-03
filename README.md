@@ -37,3 +37,10 @@ The vacation itinerary was created by using the cities and their hotels found wi
     src=Vacation_Itinerary/WeatherPy_travel_map_markers.png
   >
 </p>
+
+## Questions
+
+* You can contact me via email or GitHub!
+
+    * Email: emilyporter920@gmail.com
+    * GitHub Profile: Emily Porter || github.com/emilyporter920 
